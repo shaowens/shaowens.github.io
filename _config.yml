@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 1863733XXXX
 email: 2698547773@qq.com
 
-baseurl: "/shaowens.github.io"
+baseurl: "shaowens.github.io"
 
 permalink: /:year/:month/:day/:title/
 
